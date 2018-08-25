@@ -1,0 +1,19 @@
+{
+  "name": "mydns-notifier",
+  "version": "1.0.0",
+  "description": "notify to MyDNS vis HTTPS-Basic protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vt750s/mydns-notifier.git"
+  },
+  "author": "vt750s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vt750s/mydns-notifier/issues"
+  },
+  "homepage": "https://github.com/vt750s/mydns-notifier#readme"
+}
