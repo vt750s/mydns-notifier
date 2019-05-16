@@ -1,2 +1,2 @@
 # mydns-notifier
-MyDNSにHTTPS-BASICでIPを通知するスクリプトです。
+MyDNSにHTTPS-BASICでIPアドレスを通知するスクリプトです。
